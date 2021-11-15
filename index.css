@@ -1,0 +1,24 @@
+.A{
+    color:plum;
+    background-color: black;
+    padding:10px;
+}
+.B{
+    background-color: plum;
+    color:blacl;
+    padding: 100px;
+    text-align: center;
+    size:40px;
+    padding-bottom: 40px;
+    font-size: 20px;
+}
+.C{
+    text-align: left;
+    padding-bottom: 40px;
+}
+.D{
+    text-align: center;
+    background-color: plum;
+    color:black;
+    padding: 20px;
+}
